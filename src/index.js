@@ -87,6 +87,12 @@ function Menu() {
         price="11"
         photoName="pizzas/margherita.jpg"
       />
+      <Pizza
+        name="Focaccia"
+        ingredients="Mozarella, tomato"
+        price="13"
+        photoName="pizzas/focaccia.jpg"
+      />
     </main>
   );
 }
