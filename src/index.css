@@ -52,17 +52,6 @@ body {
   display: block;
 }
 
-.header h1::before,
-.header h1::after {
-  display: block;
-  content: "";
-  height: 3px;
-  width: 12rem;
-  background-color: #edc84b;
-  position: absolute;
-  top: calc(50% - 1px);
-}
-
 .header h1::before {
   left: 0;
   top: 6rem;
