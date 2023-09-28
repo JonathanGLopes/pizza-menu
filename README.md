@@ -7,3 +7,7 @@
 ### Preview
 
 <img width="600" src="./src/img/preview.png">
+
+### Status
+
+- Complete
